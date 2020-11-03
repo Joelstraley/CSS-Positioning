@@ -11,7 +11,7 @@ body {
 #fixed {
     background: #999;
     opacity: 0.2;
-    position: fixed;
+    position: fixed; 
     top: 0;
     left: 0;
     padding: 40px;
